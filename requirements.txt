@@ -1,2 +1,3 @@
 pandas==2.1.1
-voila==0.5.8
+appmode==1.0.0
+appmode-jupyterlab==1.0.0
