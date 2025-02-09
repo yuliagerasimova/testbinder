@@ -2,3 +2,4 @@ pandas
 voila
 ipywidgets
 openpyxl
+XlsxWriter
